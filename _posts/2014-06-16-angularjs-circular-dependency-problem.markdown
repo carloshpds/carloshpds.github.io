@@ -2,6 +2,8 @@
 published: false
 title: AngularJS: Circular dependency problem
 layout: post
+tags: [AngularJS]
+categories: [AngularJS]
 ---
 Tentei colocar um service como dependência para um interceptor
 
