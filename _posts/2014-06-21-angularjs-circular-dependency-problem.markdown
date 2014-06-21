@@ -5,8 +5,6 @@ layout: post
 tags: [AngularJS]
 categories: [AngularJS, Front-end]
 ---
-# AngularJS: Circular dependency problem
-
 Tentei colocar um service como dependência para um interceptor...
 
 
