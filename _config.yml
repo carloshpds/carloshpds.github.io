@@ -3,5 +3,5 @@ pygments: true
 markdown: kramdown
 title: Carlos Henrique
 tagline: 
-description: my blog
+description: Dev blog
 paginate: 5
