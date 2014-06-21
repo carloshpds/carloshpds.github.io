@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: AngularJS: Circular dependency problem
 layout: post
 tags: [AngularJS]
